@@ -18,7 +18,7 @@ namespace Part_1_Basics
             Console.WriteLine("E");
             Console.WriteLine("E");
             Console.WriteLine("EEEEE");
-
+            Console.WriteLine();
             Console.WriteLine("L");
             Console.WriteLine("L");
             Console.WriteLine("L");
@@ -26,6 +26,7 @@ namespace Part_1_Basics
             Console.WriteLine("L");
             Console.WriteLine("L");
             Console.WriteLine("LLLLL");
+            Console.WriteLine();
 
             string firstName = "Emily";
             string favMovie = "The Matrix";
