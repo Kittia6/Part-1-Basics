@@ -10,7 +10,7 @@ namespace Part_1_Basics
     {
         static void Main(string[] args)
         {
-         //Emily Lafontaine
+         //Emily L
             Console.WriteLine("EEEEE");
             Console.WriteLine("E");
             Console.WriteLine("E");
